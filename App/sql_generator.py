@@ -1,11 +1,15 @@
 import os
 import requests
+import streamlit as st
 from dotenv import load_dotenv
 
 load_dotenv()
 
-OLLAMA_API_KEY = os.getenv("OLLAMA_API_KEY")
-
+try:
+    OLLAMA_API_KEY = st.secrets["OLLAMA_API_KEY"]
+except Exception:
+    OLLAMA_API_KEY = os.getenv("OLLAMA_API_KEY")
+    
 OLLAMA_URL = "https://ollama.com/api/chat"
 
 
