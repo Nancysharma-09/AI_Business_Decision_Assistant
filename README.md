@@ -3,7 +3,7 @@
 ### Turn business questions into data-driven answers.
 
 <p align="center">
-  <img src="Logo.png" alt="AI Business Decision Assistant" width="450">
+  <img src="C:\Users\DELL\Downloads\Logo.png" alt="AI Business Decision Assistant" width="450">
 </p>
 
 > A GenAI-powered retail analytics assistant that lets users ask business questions in natural language and receive data-backed insights.
