@@ -41,6 +41,24 @@
 ### 📄 Automated Business Reports
 - Generate automated business summaries, KPI reports, and management-ready analytical reports.
 
+  ## 📌 Project Overview
+
+The **AI Business Decision Assistant** combines **Generative AI, Python, SQL, Power BI, Streamlit, and TiDB Cloud** to create a conversational analytics experience.
+
+Instead of manually writing SQL queries or navigating multiple dashboard filters, users can simply ask business questions in natural language.
+
+The system converts the question into a safe SQL query, retrieves the required data, and uses Generative AI to turn the result into an easy-to-understand business insight.
+---
+## 🎯 Business Value
+
+- Makes business analytics accessible to non-technical users
+- Reduces the need for manually writing SQL queries
+- Provides faster access to important business information
+- Converts complex database results into understandable insights
+- Supports faster and more data-driven business decisions
+
+---
+
 ## 👩‍💻 Author
 
 ### Nancy Sharma — Data Analyst
